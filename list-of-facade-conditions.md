@@ -1,4 +1,4 @@
-## 🧱 Formatted List of Facade Conditions
+## Facade Conditions List
 
 ### MASONRY
 * Brick Crazing
