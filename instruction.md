@@ -16,6 +16,8 @@
 >
 > **Final Answer Format:** Present your final answer using the following structure:
 >
-> **Identification:** [Category]: [Condition]\n
+> **Identification:** [Category]: [Condition]
+> 
 > **Quantification:** [Best Guess/Range] [Unit]
+>
 > **Cost Unit:** [Assigned Cost Unit]"
