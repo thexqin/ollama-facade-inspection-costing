@@ -8,7 +8,7 @@
 
 > "Analyze the provided image of a building facade condition.
 >
-> **Step 1: Identification.** Identify the specific damage term/category shown in the photo. Your output for this step must be chosen directly and verbatim from the 'Facade Conditions List' provided below. Output as: `Category: Condition`.
+> **Step 1: Identification.** Identify the specific damage term/category shown in the photo. Your output for this step must be chosen directly and verbatim from the 'Facade Conditions List' provided below. Output as: `Identification: [Category]: [Condition]`.
 >
 > **Step 2: Quantification (Best Guess).** Based on the visual evidence in the photo, provide a best-guess estimate for the extent of the damage. Use a relevant measurement unit for the condition (e.g., number of bricks, lineal feet, square feet, count of units). If the image context is insufficient for a precise guess, state a **range** or the **countable items** visible. Output as: `Quantification: [Your Best Guess/Range] [Unit]`.
 >
