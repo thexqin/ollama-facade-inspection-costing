@@ -1,6 +1,6 @@
 ## Facade Conditions List
 
-### MASONRY
+### Masonry
 * Brick Crazing
 * Cracks in Brick Surface
 * Staining/Soiling
@@ -13,6 +13,7 @@
 * Peeling Of Paint or Stucco
 * Brick Coving
 * Wet Wall
+* Mortar
 * Slightly Eroded Mortar Joint
 * Open/Eroded Mortar Joint
 * Disintegrating Joint Mortar
@@ -37,7 +38,7 @@
 * Crack In Stucco over Masonry
 * Crack and Debonding of Stucco Over Masonry
 
-### CONCRETE
+### Concrete
 * Hairline Crack (Reinforced Concrete)
 * Slight Crack (Reinforced Concrete)
 * Large Crack (Reinforced Concrete)
@@ -51,7 +52,7 @@
 * Crazed Cracking Cast Stone
 * Peeling of Cast Stone Surface
 
-### TERRA-COTTA
+### Terra-cotta
 * Loss of Glaze
 * Surface Crazing - Terra-cotta
 * Directional Fine Cracking of Terra-cotta Surface
@@ -62,7 +63,7 @@
 * Cracked and Fragmented Terra-cotta Units
 * Broken Terra-cotta Unit
 
-### STONE
+### Stone
 * Crack in Stone
 * Crack in Various Types of Stones
 * Crack By Directionality
@@ -77,7 +78,7 @@
 * Sugaring
 * Bowing of Marble Panels
 
-### BROWNSTONE
+### Brownstone
 * Disaggregating Brownstone
 * Exfoliating/ Delaminating Brownstone
 * Brownstone Scaling
