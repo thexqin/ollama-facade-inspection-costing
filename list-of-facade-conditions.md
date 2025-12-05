@@ -24,7 +24,7 @@
 * Improper Joint Repair (pointing)
 * Lime Run
 * Eroded/Missing Mortar in Stone Joint
-* Cracks in Masonry Façades
+* Cracks in Masonry Facades
 * Thin (Hairline) Crack in Masonry
 * Slight Vertical Crack in Masonry
 * Large Crack In Masonry
@@ -85,7 +85,7 @@
 * Sagging Brownstone Lintel
 * Failure of Brownstone Repair Coating
 
-### METALS AND CORROSION
+### Metals and Corrosion
 * Corroding Window Frame
 * Corroding Veneer Anchor
 * Galvanic Corrosion
@@ -93,7 +93,7 @@
 * Loose, Flaking Paint
 * Corrosion Effects – “Rust Jacking”
 
-### FAÇADE ELEMENTS - FENESTRATION FRAMING
+### Facade Elements - Fenestration Framing
 * Missing/Curling Sealant around Window Frame
 * Gap In Sealant (Window Frame and Masonry)
 * Missing Sealant at Sleeve
@@ -107,7 +107,7 @@
 * Cracked Parging At Window Jamb
 * Cracked/Broken Glass
 
-### FAÇADE ELEMENTS - LINTELS/SILLS
+### Facade Elements - Lintels/Sills
 * Exfoliation of Slate Window Sills
 * Cracked Cast Stone Window Sills
 * Masonry Cracks Around Sill
@@ -119,7 +119,7 @@
 * Loss of Cast Stone Unit
 * Crack of Masonry Jamb at Insert
 
-### FAÇADE ELEMENTS - PARAPETS/CORNICES
+### Facade Elements - Parapets/Cornices
 * Crazing Terra-cotta Camelback Coping
 * Open Cross Joints Coping
 * Failure of Sealant – Coping Stone Cross Joint
@@ -135,7 +135,7 @@
 * Rot of Wood at Cornice
 * Deterioration of Underside of Cornice
 
-### FAÇADE ELEMENTS - BALCONIES AND RAILINGS
+### Facade Elements - Balconies and Railings
 * Underside Balcony Spall/Crack
 * Loose/Defective Intermediate Panel
 * Balcony Sagging
@@ -146,13 +146,13 @@
 * Delaminating of Concrete or Topping
 * Handrail Connection Failures
 
-### FAÇADE ELEMENTS - OTHER
-* Fire Escapes (Damage to)
+### Facade Elements - Other
+* Fire Escapes
 * Chimney Leaning
-* Slate Roof (Damage to)
+* Slate Roof
 
-### ENVELOPE SYSTEMS - BEARING MASONRY
-* Façade Bowing Inwards (or Outwards)
+### Traditional Envelope Systems - Bearing Masonry
+* Facade Bowing Inwards (or Outwards)
 * Out of Plumb Bearing Masonry Wall
 * Diagonal Cracks at Base of Bearing Masonry Building
 * Diagonal Cracks at Spandrel
@@ -164,17 +164,17 @@
 * Bulging of Bearing Masonry
 * Bulge/Displacement of Bearing Masonry at Floor Level
 
-### ENVELOPE SYSTEMS - TRANSITIONAL MASONRY
-* Thin (Hairline) Crack in Transitional Façade
-* Bulge at Parapet of Transitional Façade
+### Traditional Envelope Systems - Transitional Masonry Facades
+* Thin (Hairline) Crack in Transitional Facade
+* Bulge at Parapet of Transitional Facade
 * Crack at Parapet Along Spandrel Beam
-* Crack Around Opening in Transitional Façade
-* Vertical Corner Crack in Transitional Façade
-* Multiple Vertical Cracks Along Corner of Transitional Façade
+* Crack Around Opening in Transitional Facade
+* Vertical Corner Crack in Transitional Facade
+* Multiple Vertical Cracks Along Corner of Transitional Facade
 * Bulge and Crack at Face of Masonry
 * Improper Repair of Corner Crack
 
-### ENVELOPE SYSTEMS - BRICK VENEER CAVITY WALL
+### Traditional Envelope Systems - Brick Veneer Cavity Wall
 * Clogged Weephole
 * Rolling Block in Brick Veneer
 * Buckled Veneer at Improper Joint
@@ -192,14 +192,14 @@
 * Large Vertical Crack in Brick Veneer
 * Improper Repair of Veneer at Corner
 
-### ENVELOPE SYSTEMS - CONCRETE FACADES
+### Traditional Envelope Systems - Concrete Facades
 * Delaminating of Concrete Facade
 * Slippage Precast Concrete Panel
 * Crack in Concrete Panel
 * Surface Spalling of Precast Concrete Panel
 * Crack at Joints of Precast Panels
 
-### MODERN CURTAIN WALLS - METAL AND GLASS
+### Modern Curtain Walls - Metal and Glass Curtain Wall
 * Broken/Cracked Glass of Curtain Wall
 * Glass Defects
 * Snap-on Trim Back Out
@@ -208,13 +208,13 @@
 * Mullion Deformed
 * Condensation
 
-### MODERN CURTAIN WALLS - EIFS
-* Sealant Joint Failure -EIFS
-* Mitered Outside Corners of EPS Board -EIFS
+### Modern Curtain Walls - EIFS - Exterior Insulated Finishing Systems
+* Sealant Joint Failure - EIFS
+* Mitered Outside Corners of EPS Board - EIFS
 * Cracking at Penetration Corners at EIFS
 * Cracking Adjacent to EIFS Penetration
 
-### MODERN CURTAIN WALLS - THIN BRICK PANELS
+### Modern Curtain Walls - Thin Brick Panels
 * Sealant Joint Failure Thin Brick Panel
 * Efflorescence Thin Brick Panel
 * De-bonding of Individual Thin Brick
